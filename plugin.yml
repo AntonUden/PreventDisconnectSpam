@@ -1,0 +1,6 @@
+main: net.zeeraa.preventdisconnectspam.PreventDisconnectSpam
+name: PreventDisconnectSpam
+description: Prevents players from being kicked with the reason disconnect.spam
+author: Zeeraa
+version: 1.0
+api-version: 1.13
